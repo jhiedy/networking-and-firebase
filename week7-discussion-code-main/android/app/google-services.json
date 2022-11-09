@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "341784946454",
+    "project_id": "cmsc23-todo-app-jrabadines-c4l",
+    "storage_bucket": "cmsc23-todo-app-jrabadines-c4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341784946454:android:799c9551bb5f23bc7d9237",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341784946454-hlcqbsqh0j7hjgilfboqa7qebtbgsbrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhv1ZQl3bUvWAnPXtDYTy0WMY6AYtI_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341784946454-hlcqbsqh0j7hjgilfboqa7qebtbgsbrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "341784946454-2fauqavje4vfsc9onai57lieiujqel1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
